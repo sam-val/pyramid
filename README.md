@@ -9,7 +9,7 @@ Running in terminal...
 >> pyramid.exe 15
 
 ```
-**=> A pyramid withe a height of 15 will be printed.**
+*=> A pyramid withe a height of 15 will be printed.*
 
 - ``second argument`` is the reverse option, specified by the ``--reverse`` or ``-r`` flag.
 
@@ -17,7 +17,7 @@ Running in terminal...
 >> pyramid.exe 15 -r
 
 ```
-**=> The same pyramid with be upside down.**
+*=> The same pyramid with be upside down.*
 
 ## Javascipt:
 
