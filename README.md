@@ -1,6 +1,7 @@
 # pyramid in various languages
 
 ## C#
+
 Running in terminal...
 
 - ``first argument`` is the ``height`` of the pyramid, say you want the height to be ``15``:
