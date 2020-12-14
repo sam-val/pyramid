@@ -24,6 +24,6 @@ Running in terminal...
 ```
 
 
-## Javascipt:
+## Javascript:
 
 ![js_preview](/Javascript/js_pyramid.png)
